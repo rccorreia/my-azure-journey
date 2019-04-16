@@ -2,7 +2,9 @@
 
 Resources are services that can be consumed by the [account](account.md) and are assigned to a [subscription](subscription.md).
 
-## Examples:
+The service [resource group](/Services/resource-group.md) can group resources of an solution together.
+
+## Examples of Resources:
 
 - Virtual Machines (VMs);
 - Networking Components;
