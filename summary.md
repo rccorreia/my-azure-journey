@@ -8,7 +8,6 @@ Azure provides Cloud-Based services for anyone to consume and build solutions an
 
 To access these services you'll need an [account](Fundamentals/account.md).
 
+Inside your account, you can have [subscriptions](Fundamentals/subscription.md).
 
-
-## Provisioning Microsoft Azure Virtual Machines
-
+These subscriptions may contain [resources](Fundamentals/resource.md).
