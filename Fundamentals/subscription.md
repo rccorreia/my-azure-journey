@@ -1,6 +1,6 @@
 # Subscriptions
 
-Subscriptions are used to grant access to Azure-based [resources](resource.md) for the [account](account.md).
+Subscriptions are used to grant access to Azure-based [resources](resource.md) for the [account](Account/account.md).
 
 Types available:
 

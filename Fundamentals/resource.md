@@ -1,6 +1,6 @@
 # Resources
 
-Resources are services that can be consumed by the [account](account.md) and are assigned to a [subscription](subscription.md).
+Resources are services that can be consumed by the [account](Account/account.md) and are assigned to a [subscription](subscription.md).
 
 The service [resource group](/Services/resource-group.md) can group resources of an solution together.
 
