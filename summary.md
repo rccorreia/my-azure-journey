@@ -16,3 +16,7 @@ These subscriptions may contain [resources](Fundamentals/resource.md).
 
 - [Redundancy](Fundamentals/redundancy.md);
 - [Low-Latency](Fundamentals/latency.md);
+
+## Services availables
+
+To understand what is a service and see the list of services available in Azure, start [here](Services/service.md).
