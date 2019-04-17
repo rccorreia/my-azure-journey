@@ -11,3 +11,8 @@ To access these services you'll need an [account](Fundamentals/account.md).
 Inside your account, you can have [subscriptions](Fundamentals/subscription.md).
 
 These subscriptions may contain [resources](Fundamentals/resource.md).
+
+### Important concepts that Azure can achieve
+
+- [Redundancy](Fundamentals/redundancy.md);
+- [Low-Latency](Fundamentals/latency.md);
